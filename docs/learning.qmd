@@ -1,0 +1,32 @@
+---
+title: "Reproducible Document"
+author: "Mikkel"
+format: html
+editor: visual
+---
+
+```{r setup}
+library(tidyverse)
+```
+
+
+## Writing R code
+
+2 + 2
+
+```{r}
+2 + 2
+```
+## About me
+
+- Mikkel Steentoft
+- Aarhus University
+
+**I live in Aarhus** *and i like to play padel*
+
+## Simple code
+
+```{r}
+3 * 3
+```
+
